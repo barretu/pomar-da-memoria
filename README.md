@@ -22,30 +22,22 @@ Projeto desenvolvido para a cadeira de **Projetos 1** do primeiro período de **
 - Módulo RFID MFRC522
 - Módulo MP3 YX5300
 - Tags RFID MIFARE 13.56MHz
-- Frutas impressas em 3D
+- Frutas feitas com biscuit
 
 ---
 
 ## 👥 Equipe
 
+**Orientador:** Leo Macedo
+
 | Nome | LinkedIn |
 |---|---|
-| Orientador | Leo Macedo | [https://www.linkedin.com/in/leomacedoleo/](#) |
-|---|---|
-| Caio Mendonça de Oliveira
- | [https://www.linkedin.com/in/caio-oliveira912/](#) |
-| Helena Gabrielli Bezerra Santos
- | [linkedin.com/in/](#) |
-| João Eduardo Mascarenhas Leite Lemos
- | [linkedin.com/in/](#) |
-| Jose Henrique Carneiro Lapa
- | [https://www.linkedin.com/in/henrique-carneiro-dev/](#) |
-| Júlia Teixeira Catão Ribeiro
- | [linkedin.com/in/](#) |
-| Lunna de Aguiar Mendonça Morelato Moreno
- | [https://www.linkedin.com/in/lunnaaguiar/](#) |
-| Ricardo Amorim Bayma
- | [https://www.linkedin.com/in/ricardo-bayma-aa5a83411/](#) |
-| Sofia Marinho de Hollanda Cavalcanti
- | [https://www.linkedin.com/in/sofia-marinho-de-hollanda-cavalcanti-136a14400/](#) |
-| Thony Guilherme de Aquino Barreto | [https://www.linkedin.com/in/thonybarreto/](#) |
+| Caio Mendonça de Oliveira | [linkedin.com/in/caio-oliveira912](https://www.linkedin.com/in/caio-oliveira912/) |
+| Helena Gabrielli Bezerra Santos | [linkedin.com/in/](#) |
+| João Eduardo Mascarenhas Leite Lemos | [linkedin.com/in/](#) |
+| Jose Henrique Carneiro Lapa | [linkedin.com/in/henrique-carneiro-dev](https://www.linkedin.com/in/henrique-carneiro-dev/) |
+| Júlia Teixeira Catão Ribeiro | [linkedin.com/in/](#) |
+| Lunna de Aguiar Mendonça Morelato Moreno | [linkedin.com/in/lunnaaguiar](https://www.linkedin.com/in/lunnaaguiar/) |
+| Ricardo Amorim Bayma | [linkedin.com/in/ricardo-bayma-aa5a83411](https://www.linkedin.com/in/ricardo-bayma-aa5a83411/) |
+| Sofia Marinho de Hollanda Cavalcanti | [linkedin.com/in/sofia-marinho-de-hollanda-cavalcanti-136a14400](https://www.linkedin.com/in/sofia-marinho-de-hollanda-cavalcanti-136a14400/) |
+| Thony Guilherme de Aquino Barreto | [linkedin.com/in/thonybarreto](https://www.linkedin.com/in/thonybarreto/) |
