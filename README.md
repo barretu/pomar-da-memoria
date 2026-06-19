@@ -26,18 +26,33 @@ Projeto desenvolvido para a cadeira de **Projetos 1** do primeiro período de **
 
 ---
 
+## Esquemático
+```
+Tag RFID
+    ↓
+Leitor RFID MFRC522
+    ↓
+Arduino Uno
+    ↓
+Módulo MP3 YX5300
+    ↓
+Alto-falante
+```
+
+---
+
 ## 👥 Equipe
 
 **Orientador:** Leo Macedo
 
 | Nome | LinkedIn |
 |---|---|
-| Caio Mendonça de Oliveira | [linkedin.com/in/caio-oliveira912](https://www.linkedin.com/in/caio-oliveira912/) |
-| Helena Gabrielli Bezerra Santos | [linkedin.com/in/](#) |
-| João Eduardo Mascarenhas Leite Lemos | [linkedin.com/in/](#) |
+| Caio Mendonça de Oliveira | [linkedin.com/in/caio-oliveira](https://www.linkedin.com/in/caio-oliveira912/) |
+| Helena Gabrielli Bezerra Santos | [linkedin.com/in/helena-santos](https://www.linkedin.com/in/helena-santos-a89288418/) |
+| João Eduardo Mascarenhas Leite Lemos | [linkedin.com/in/joão-eduardo](https://www.linkedin.com/in/joão-eduardo-121052418) |
 | Jose Henrique Carneiro Lapa | [linkedin.com/in/henrique-carneiro-dev](https://www.linkedin.com/in/henrique-carneiro-dev/) |
-| Júlia Teixeira Catão Ribeiro | [linkedin.com/in/](#) |
+| Júlia Teixeira Catão Ribeiro | [linkedin.com/in/júlia-catão](https://www.linkedin.com/in/júlia-catão-019b07417?utm_source=share_via&utm_content=profile&utm_medium=member_ios) |
 | Lunna de Aguiar Mendonça Morelato Moreno | [linkedin.com/in/lunnaaguiar](https://www.linkedin.com/in/lunnaaguiar/) |
-| Ricardo Amorim Bayma | [linkedin.com/in/ricardo-bayma-aa5a83411](https://www.linkedin.com/in/ricardo-bayma-aa5a83411/) |
-| Sofia Marinho de Hollanda Cavalcanti | [linkedin.com/in/sofia-marinho-de-hollanda-cavalcanti-136a14400](https://www.linkedin.com/in/sofia-marinho-de-hollanda-cavalcanti-136a14400/) |
+| Ricardo Amorim Bayma | [linkedin.com/in/ricardo-bayma](https://www.linkedin.com/in/ricardo-bayma-aa5a83411/) |
+| Sofia Marinho de Hollanda Cavalcanti | [linkedin.com/in/sofia-marinho](https://www.linkedin.com/in/sofia-marinho-de-hollanda-cavalcanti-136a14400/) |
 | Thony Guilherme de Aquino Barreto | [linkedin.com/in/thonybarreto](https://www.linkedin.com/in/thonybarreto/) |
